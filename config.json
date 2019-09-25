@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "tachasyperico",
+    "database": "postresito-1",
+    "host": "34.69.127.214",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "tachasyperico",
+    "database": "postresito-1",
+    "host": "34.69.127.214",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "tachasyperico",
+    "database": "postresito-1",
+    "host": "34.69.127.214",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
