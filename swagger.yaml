@@ -4,7 +4,7 @@ info:
   title: Game Collector App
 host: secret-voice-236018.appspot.com
 x-google-endpoints:
-- name: 'secret-voice-236013.appspot.comx'
+- name: 'secret-voice-236013.appspot.com'
   allowCors: 'true'
 basePath: /
 # 
