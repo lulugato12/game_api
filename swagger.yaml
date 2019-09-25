@@ -2,9 +2,9 @@ swagger: "2.0"
 info:
   version: "0.0.1"
   title: Game Collector App
-host: secret-voice-236018
+host: secret-voice-236018.appspot.com
 x-google-endpoints:
-- name: 'secret-voice-236013'
+- name: 'secret-voice-236013.appspot.com'
   allowCors: 'true'
 basePath: /
 # 
